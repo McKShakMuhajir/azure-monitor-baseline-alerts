@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "mckesson"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "mckesson-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "mckesson-identity"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "mckesson-management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "mckesson-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "mckesson-landing-zones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -51,10 +51,10 @@
       "value": ""
     },
     "userAssignedManagedIdentityName": {
-      "value": "id-amba-prod-001"
+      "value": "id-amba-qa-001"
     },
     "managementSubscriptionId": {
-      "value": ""
+      "value": "Mckesson Modern Management "
     },
     "ALZMonitorResourceGroupName": {
       "value": "rg-amba-monitoring-001"
@@ -68,7 +68,7 @@
       }
     },
     "ALZMonitorActionGroupEmail": {
-      "value": ""
+      "value": "shak.muhajir@mckesson.com"
     },
     "ALZLogicappResourceId": {
       "value": ""
