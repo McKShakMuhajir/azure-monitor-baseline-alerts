@@ -8,8 +8,8 @@ permissions:
   contents: read
 
 env:
-  Location: "norwayeast"
-  ManagementGroupPrefix: "alz"
+  Location: "eastus"
+  ManagementGroupPrefix: "mckesson"
 
 jobs:
   deploy_job:
